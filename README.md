@@ -2,7 +2,7 @@
 
 ## About me
 
-Hi, I'm Isma Sayed.
+Hi, I'm Islam Sayed.
 | Rank | Languages |
 |-----:|-----------|
 |     1| JavaScript|
