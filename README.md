@@ -3,7 +3,7 @@
 ## About me
 
 Hi, I'm Islam Sayed.
-| Rank | Languages |
+|  tools i used before |
 |-----:|-----------|
 |     1| JavaScript|
 |     2| html      |
