@@ -1,11 +1,9 @@
 ### Hi there 👋
+I'm Islam Sayed.
 
-## About me
-
-Hi, I'm Islam Sayed.
-|  tools i used before |
-|-----:|-----------|
-|     1| JavaScript|
-|     2| html      |
-|     3| css       |
-|     4| Reactjs   |
+| Category                    | Tools and Technologies       |
+|-----------------------------|------------------------------|
+| **Programming Languages**   | JavaScript, HTML, CSS        |
+| **Frameworks and Libraries**| React, Next.js               |
+| **Styling**                 | Tailwind CSS                 |
+| **Design Tools**            | Figma, Photoshop, Illustrator|
