@@ -1,9 +1,12 @@
 ### Hi there 👋
-I'm Islam Sayed.
+# I'm Islam Sayed.   
+<em>a UI/UX Engineer</em>
+---
 
 | Category                    | Tools and Technologies       |
 |-----------------------------|------------------------------|
-| **Programming Languages**   | JavaScript, HTML, CSS        |
-| **Frameworks and Libraries**| React, Next.js               |
-| **Styling**                 | Tailwind CSS                 |
+| **Markup**                  | HTML, jsx                    |
+| **programing lang**         | JavaScript                   |
+| **Styling**                 | Tailwindcss, CSS             |
+| **Frameworks and Libraries**| React, Next.js, Angular      |
 | **Design Tools**            | Figma, Photoshop, Illustrator|
